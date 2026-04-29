@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+.vite/
+
+# Environment files
+.env
+.env.local
+
+# Cache
+.cache/
+
+# Editor directories
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
